@@ -15,15 +15,15 @@ client.on('message', message => {
   
 });
 
-client.login('NzIyNTI1NDMzMzA3OTg3OTk5.XukW2A.XFO0X8bQTI69haWP_LUd3YdS6AM');
+client.login("TOKEN");
 
 
 
 var t_client = new Twitter({
-  consumer_key: '7OZ1N5XBy6zsGwy0DltXyxMjJ',
-  consumer_secret: 'XZwEzGyJhgi880CVA36hB97bT3aWsoJvvruk7CbomCRXGGVmTk',
-  access_token_key: '724349761340329984-dNwMptIItXxTeGY7WR8PJ4DStxFrlqP',
-  access_token_secret: '3UES80IrpV0rZ0LA39Q5HZAzLYBZNVkmMwV3Qz9E5jaLG'
+  consumer_key: "consumer_key",
+  consumer_secret: 'consumer_secret',
+  access_token_key: 'access_token_key',
+  access_token_secret: 'access_token_secret'
 });
 
 
